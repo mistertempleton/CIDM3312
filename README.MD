@@ -5,7 +5,7 @@ Commands covered 9/10/2018:
 * git int
 * git add .
 * git commit -m (message)
-Console.WriteLine("September 17th, 2018");
+* Console.WriteLine("September 17th, 2018");
 
 From GitHub new repo screen:
 
